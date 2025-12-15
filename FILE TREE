@@ -1,0 +1,19 @@
+├── _config.yml
+├── Gemfile
+├── netlify.toml
+├── index.html
+├── _layouts/
+│   └── default.html
+├── _includes/
+│   └── head.html
+│   └── header.html
+│   └── footer.html
+├── _data/
+│   └── vendors.csv
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── checklist-app.js
+├── _site/ (generated, ignore)
+└── _posts/ (empty, ignore)
