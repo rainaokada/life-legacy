@@ -1,0 +1,10 @@
+title: Life & Legacy Guam
+description: Free bereavement navigation for Guam families
+url: "" # Netlify fills this
+baseurl: ""
+markdown: kramdown
+plugins: []
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules]
+collections:
+  data:
+    output: false
